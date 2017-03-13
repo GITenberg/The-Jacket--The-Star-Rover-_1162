@@ -1,5 +1,8 @@
 _repo: The-Jacket--The-Star-Rover-_1162
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -12,6 +15,8 @@ creator:
 description: "The Star Rover is a novel by American writer Jack London published in\
   \ 1915 (published in the United Kingdom as The Jacket). It is a story of reincarnation.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1162#The-Jacket--The-Star-Rover-
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
